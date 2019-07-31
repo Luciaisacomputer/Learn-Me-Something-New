@@ -1,4 +1,15 @@
-#
+# Learn Things Quickly
 
 
-[] Test
+
+
+## Variables
+
+
+## Methods
+
+
+## Data Structures
+
+
+## ETC
